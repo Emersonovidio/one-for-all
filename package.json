@@ -1,0 +1,19 @@
+{
+  "name": "mysql-one-for-all",
+  "version": "1.0.0",
+  "description": "Projeto do Banco de dados MySql Normalizacao de tabelas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emersonovidio/one-for-all.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emersonovidio/one-for-all/issues"
+  },
+  "homepage": "https://github.com/Emersonovidio/one-for-all#readme"
+}
